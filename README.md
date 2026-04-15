@@ -9,5 +9,5 @@ Built a Power BI dashboard analyzing video game sales.
 - Data cleaning and transformation (Power Query)
 
 ## Key Insights
-![First Insight](images/Graph 1 Screenshot.png)
+![First Insight](images/Graph1_Screenshot.png)
 
