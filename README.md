@@ -10,4 +10,10 @@ Built a Power BI dashboard analyzing video game sales.
 
 ## Key Insights
 ![First Insight](images/Graph1_Screenshot.png)
+- games
+- games
+- games
 
+---
+
+![Second Insight](images/Graph2_Screenshot.png)
